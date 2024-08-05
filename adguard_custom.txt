@@ -1,0 +1,1 @@
+dogdrip.net###main > div.eq.container > div.eq.clayerbox-left:first-child > div.eq.clayerbox-left-ad
